@@ -1,8 +1,7 @@
-+ Require Python IDLE to run all the python applications:
-	Link: https://www.python.org/downloads/
-+ Hangman game requires "pygame" library.
-	Link: https://www.pygame.org
-
-+ Install the pygame library:
-	pip install pygame
-	Pygame tutorial: https://www.javapoint.com/pygame
+EIT
+School of Computing
+Hawkes Bay
+System Development
+Support and Infrastructure
+Information Systems
+Intelligent Systems
